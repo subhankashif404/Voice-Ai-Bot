@@ -1,0 +1,15 @@
+streamlit
+transformers
+torch
+textblob
+deep-translator
+langdetect
+openai-whisper
+sounddevice
+scipy
+librosa
+numpy
+gTTS
+soundfile
+ffmpeg-python
+pydub
