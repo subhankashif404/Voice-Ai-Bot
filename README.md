@@ -35,7 +35,7 @@ VoiceMind AI Pro is an advanced, multi-lingual AI voice assistant designed to pr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/subhankashif4004-droid/Voice-Ai-Bot.git
+   git clone https://github.com/subhankashif404/Voice-Ai-Bot.git
    cd Voice-Ai-Bot
    ```
 
